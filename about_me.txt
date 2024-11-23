@@ -1,1 +1,4 @@
+Hello, my name is Inês Palma, born on June 26, 1997. I am passionate about photography, sports, and the fusion of technology with art. I thrive on unleashing creativity daily, whether through designing a simple button or solving complex problems.
 
+
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/NAME_OF_ICON.svg" width="50"></a>
